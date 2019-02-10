@@ -1,15 +1,201 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Caesar Cipher</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div id="root">
-      <h1>Hola mundo!</h1>
-    </div>
-    <script src="cipher.js"></script>
-    <script src="index.js"></script>
-  </body>
+
+<head>
+  <meta charset="utf-8">
+  <title>Caesar Cipher</title>
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+    crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Yatra+One" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr"
+    crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css" />
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+  <header>
+    <nav class="navbar navbar-light bg-light fixed-top menu">
+      <a class="navbar-brand" href="#">
+        <img class="logo" src="../img/logo.png">
+      </a>
+    </nav>
+
+  </header>
+
+
+  <div id="root" class="container-fluid">
+
+    <section class="row">
+      <div class="col col-sm-12" id="banner">
+        <div class="jumbotron empieza">
+          <h1 class="display-4">¡Protege tus contraseñas gratis!</h1>
+          <p class="lead">Webcode es una aplicación basada en Cifrado César donde puedes crear tus contraseñas o
+            proteger las que ya tienes en cuestion de minutos. Unete a nuestros millones de usuarios y comienza ya o
+            cifrar o descifrar.</p>
+          <a class="btn btn-info btn-lg btn-empieza" href="#contenido" role="button">Empieza</a>
+        </div>
+      </div>
+
+    </section>
+
+
+    <section id="contenido">
+
+      <section class="row">
+        <div class="col col-sm-4">
+          <p> Con Webcode podrás de una manera rápida y sencilla crear contraseñas o las que ya tienes cifrarlas, de
+            tal manera que sólo tú sabras su significado.</p>
+          <p> Webcode esta basado en el Cifrado César, tambien conocido cifrado por desplazamiento. </p>
+          <img class="Caesar" src="../img/Caesar_cipher.png">
+          <p> Así de simple y por sustitución consiste en que una letra, número o carácter especial de tu
+            texto original es reemplazada por otra letra, número o carácter especial.</p>
+          <p> <strong>Esto lo logras con sólo
+              elegir el
+              nivel de dificultad (offset)</strong>
+            que desees y este mostrará la nueva letra, número o carácter especial.</p>
+          <p>En Webcode podŕas hacer uso de mayúsculas, minúsculas, números y los siguientes caracteres especiales como
+            <strong> ! " # $ % & ' ( ) * + , - . / @ ? > = \> ; : </strong>
+          </p>
+
+        </div>
+        <div class="col col-sm-8 fondo-formulario">
+          <div class="row">
+            <div class="col-sm-4 offset-sm-4">
+              <div class="form-group etiquetas">
+                <label for="difficulty"><strong>Nivel de Dificultad</strong></label>
+                <input type="number" class="form-control" placeholder="Selecciona un número" id="difficulty">
+              </div>
+
+            </div>
+
+          </div>
+          <div class="row separacion-formulario">
+            <div class="col-sm-5 offset-sm-1">
+              <div class="form-group">
+                <label for="txtEncode"><strong>Escribe aqui!</strong></label>
+                <textarea class="form-control" id="txtEncode" placeholder="Texto orignal" rows="3"></textarea>
+              </div>
+            </div>
+            <div class="col-sm-5 offset-sm-1">
+              <div class="form-group">
+                <label for="txtDecode"><strong>Tu password cifrado</strong></label>
+                <textarea class="form-control" id="txt_webcode" placeholder="Tu Webcode" rows="3"></textarea>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-2 offset-sm-1">
+              <button type="button" class="btn btn-info" id="codificar">Codifica</button>
+
+            </div>
+            <div class="col-sm-2 offset-sm-1">
+              <button type="button" class="btn btn-info" id="decodificar">Decodifica</button>
+
+            </div>
+
+            <div class="col-sm-2 offset-sm-1">
+              <button type="button" disabled class="btn btn-secondary">Compartir</button>
+
+            </div>
+            <div class="col-sm-2 offset-sm-1">
+              <button type="button" class="btn btn-warning" id="btn_clear">Limpiar</button>
+
+            </div>
+          </div>
+
+
+
+
+        </div>
+
+
+      </section>
+      <section class="row">
+        <div class="col-sm-3 text-center">
+          <div class="icon-box">
+            <div class="icon-md">
+              <i class="fas fa-search-location"></i>
+            </div>
+            <p>Webcode es una app que no sólo te pemitirá cifrar las letras de la A - Z sino que tambien pódras cifrar
+              mayúsculas, minúsculas, números y algunos caracteres especiales.</p>
+          </div>
+        </div>
+        <div class="col-sm-3 text-center">
+          <div class="icon-box">
+            <div class="icon-md">
+              <i class="fas fa-lock"></i>
+            </div>
+
+            <p>El nivel de dificultad que elijas te permitirá encriptar más tu información, así evitas que esta sea
+              facíl de descubrir.</p>
+          </div>
+        </div>
+
+        <div class="col-sm-3 text-center">
+          <div class="icon-box">
+            <div class="icon-md">
+              <i class="fas fa-puzzle-piece"></i>
+            </div>
+
+            <p>En Webcode tienes la solución para crear tus contraseñas al instante.</p>
+          </div>
+        </div>
+
+        <div class="col-sm-3 text-center">
+          <div class="icon-box">
+            <div class="icon-md">
+              <i class="fas fa-mobile-alt"></i>
+            </div>
+
+            <p>Descarga la app a tu móvil y comienza ya a tener a tu alcance la información codificada que desees.</p>
+          </div>
+        </div>
+
+
+
+      </section>
+
+
+    </section>
+    <footer class="footer fondo-formulario">
+      <div class="row">
+        <div class="col col-sm-4 ">
+          <h4>Webcode &copy; 2019-02</h4>
+        </div>
+
+        <div class="col col-sm-4 ">
+          <ul>
+            <li>Aviso legal</li>
+            <li>Condiciones Genereales de Uso</li>
+            <li>Pólitica de Privacidad</li>
+            <li>Denunciar un contenido ilegal</li>
+          </ul>
+        </div>
+
+
+        <div class="col col-sm-4">
+          <h4>Idiomas</h4>
+          <ul>
+            <li>Ingles</li>
+            <li>Frances</li>
+            <li>Español</li>
+          </ul>
+
+        </div>
+
+      </div>
+    </footer>
+  </div>
+
+  <script src="cipher.js"></script>
+  <script src="index.js"></script>
+
+
+
+</body>
+
 </html>
