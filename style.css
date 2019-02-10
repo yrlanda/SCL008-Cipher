@@ -1,78 +1,68 @@
 /* Acá va tu código */
-body{
+body {
     background-color: white;
     
     
 }
-header{
+header {
     padding: 0%;
     height: 75px;
 }
-.menu{
+.menu {
     height: 75px;
 }
-.logo{
+.logo {
     height: 64px;
 }
-
-.empieza{
+.empieza {
     text-align: center;
     background: rgba(200, 54, 54, 0);
     color: white;
     height: 500px;
     padding-top: 16%;
 }
-
-.btn-empieza{
+.btn-empieza {
     margin-top: 3%;
     width: 16%;
     height: 25%;
     font-size: 29px;
 }
-
-#banner{
+#banner {
     background-image: url("../img/webcode.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     width: 100%;
 }
-
-.cintillo{
+.cintillo {
     width: 100%;
     height: 10%;
     display: block;
     margin-left: auto;
-    margin-right: auto;
-       
-  }
-  #contenido {
+    margin-right: auto;    
+}
+#contenido {
       padding-top: 10%;
-  }
-  p{
+}
+p {
     text-align: justify;     
     font-size: 16px;
     line-height: 1.4;
-  }
-.Caesar{
+}
+.Caesar {
     height: 130px;
 }
-.etiquetas{
+.etiquetas {
     text-align: center;
     color: #100216;
-
 }
-
 .fondo-formulario {
     background-color: #e0e0e0a8;
     border-radius: 4%;
     padding-top: 4%;
 }
-.separacion-formulario{
+.separacion-formulario {
     margin-top: 3%
 }
-
-
-
 i {
     padding-right: 10px;
     color: #009eba;
@@ -91,9 +81,8 @@ i {
     top: 0;
     left: 0;
 }
+.icon-md {
+    font-size:65px;
+}
 
-
-.icon-sm {font-size:45px; }
-.icon-md {font-size:65px; }
-.icon-lg {font-size:95px; }
 
