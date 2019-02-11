@@ -290,6 +290,3 @@ Esta sección está  para ayudarte a llevar un control de lo que vas completando
 * [ ] Cifra/descifra minúsculas
 * [ ] Cifra/descifra _otros_ caracteres (espacios, puntuación, `ñ`, `á`, ...)
 * [ ] Permite usar un `offset` negativo.
-
-
-[videos test de usabilidad](https://drive.google.com/drive/folders/1-JAVKBTfsIyL1kcPpgaCQivodGiCBDoT)
