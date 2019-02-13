@@ -28,7 +28,13 @@ Al elegir su Nivel de dificultad tendra un recuadro donde podrá ingresar su inf
 
 #### Prototipos de Baja Fidelidad
 
-aqui van las fotitos
+aqui van las fotito
+
+![Prototipo de Baja Fidelidad](./img/boceto1.jpeg "Boceto 1")
+![Prototipo de Baja Fidelidad](./img/boceto2.jpeg "Boceto 2")
+![Prototipo de Baja Fidelidad](./img/boceto3.jpeg "Boceto 3")
+![Prototipo de Baja Fidelidad](./img/sketch_boceto1.jpeg "Sketch Boceto 1")
+![Prototipo de Baja Fidelidad](./img/sketch_boceto2.jpeg "Sketch Boceto 2")
 
 
 
