@@ -57,7 +57,7 @@ Los anuncios en color son leídos hasta un 42% más que los anuncios en blanco n
  ![Prototipo de Alta Fidelidad](./img/alta.png "Prototipo de alta fidelidad WebCode")
 
 
- enlace al prototipo de alta fidelidad Navegable](https://www.figma.com/proto/fKUJ9cehdNAyN5ut7VZEGnaO/Untitled?node-id=2%3A4&scaling=min-zoom&redirected=1)
+ [enlace al prototipo de alta fidelidad Navegable](https://www.figma.com/proto/fKUJ9cehdNAyN5ut7VZEGnaO/Untitled?node-id=2%3A4&scaling=min-zoom&redirected=1)
 
  
  ### Planificación 
