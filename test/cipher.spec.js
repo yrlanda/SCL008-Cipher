@@ -24,8 +24,8 @@ describe('cipher', () => {
 
     });
 
-    it('debería retornar "#&" para "!$" con offset 2', () => {
-      assert.equal(cipher.encode(2, "!$"), "#&");
+    it('debería retornar "#&<]}" para "!$:[{" con offset 2', () => {
+      assert.equal(cipher.encode(2, "!$:[{"), "#&<]}");
 
     });
 
@@ -48,8 +48,8 @@ describe('cipher', () => {
         assert.equal(cipher.decode(14, "zopcfohcfwo"), "laboratoria");
       });
 
-      it('debería retornar "!$" para "#&" con offset 2', () => {
-        assert.equal(cipher.decode(2, "#&"), "!$");
+      it('debería retornar "!$:[{" para "#&<]}" con offset 2', () => {
+        assert.equal(cipher.decode(2, "#&<]}"), "!$:[{");
       });
 
 
