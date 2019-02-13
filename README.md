@@ -71,8 +71,12 @@ Los anuncios en color son leídos hasta un 42% más que los anuncios en blanco n
 [enlace al tablero de Trello, indica planificación](https://trello.com/b/sXFbTOXz/cipher)
 
  ### Tests de Usabilidad 
+ 
 
- [videos test de usabilidad](https://drive.google.com/drive/folders/1-JAVKBTfsIyL1kcPpgaCQivodGiCBDoT)
+ [videos test de usabilidad, Looms](https://www.useloom.com/share/21672cf25caa49888b16dffdf8bde3af)
+
+
+ [videos test de usabilidad Drive](https://drive.google.com/drive/folders/1-JAVKBTfsIyL1kcPpgaCQivodGiCBDoT)
 
 
 ### Parte Obligatoria
