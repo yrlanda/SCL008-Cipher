@@ -5,7 +5,7 @@ Webcode es una aplicación basada en Cifrado César, este modelo de cifrado es u
 En la actualidad, todos los cifrados de sustitución simple se descifran con mucha facilidad y, aunque en la práctica no ofrecen mucha seguridad en la comunicación por sí mismos; Webcode formar parte de sistemas más complejos de codificación que más que un resultado te brinda seguridad.
 
 
-### Definición del producto y su relación con sus usuarios 
+## Definición del producto y su relación con sus usuarios 📝 
 
 Como todos sabemos para acceder a nuestras cuentas de las redes sociales necesitamos ingresar contraseñas o algun código que sólo nosotros sepamos. Webcode esta diseñado para todas aquellas personas activas en las redes sociales las cuales desean una aplicación que les permita asegurar sus contraseñas de manera tal, que puedan almacenarlas en cualquier lugar sin poner en riesgo la seguridad de estás.
 
@@ -18,13 +18,13 @@ Supongamos, que deseas encriptar tu contraseña del Facebook: Chimuelo23
 - Texto cifrado sera: Fklpxhor56
 
 
-### ¿Cómo funciona Webcode? 
+## ¿Cómo funciona Webcode? 🔍
 
 El usuario de esta aplicación al ingresar tendra una breve información del producto mostrando de manaera muy visible un boton que le invita a EMPEZAR su operación al darle click a este accederá de manera inmediata a la sección donde podrá leer un poco más sobra las intrucciones de la aplicación, esta le indicará las opciones que tiene en cuanto letras, números y caracteres especiales y a recordarle que su cifrado será posible eligiendo un Nivel de dificultad. 
 
 Al elegir su Nivel de dificultad tendra un recuadro donde podrá ingresar su información y seguido de esto dos botones visibles que le daran la opción de cifrar o descifra su mensaje según la elección o desición del mismo, obteniendo seguidamente su texto cifrado o descifrado. hemos creado un boton que le permitira limpiar ambas pantallas y asi iniciar una nueva operación si ese fuese su caso.
 
-### Desiciones de Diseño 
+## Desiciones de Diseño 💡
 
 #### Prototipos de Baja Fidelidad
 
@@ -38,7 +38,7 @@ Al elegir su Nivel de dificultad tendra un recuadro donde podrá ingresar su inf
 
 
 
-#### Prototipos de Alta Fidelidad
+#### Prototipos de Alta Fidelidad 🚀
 
 Los colores en el marketing visual influyen en el resultado, comunican la esencia de una marca y hablan por el producto o servicio, no con palabras, si no con sensaciones y sentimientos.
 
@@ -66,7 +66,7 @@ Los anuncios en color son leídos hasta un 42% más que los anuncios en blanco n
  [enlace al prototipo de alta fidelidad Navegable](https://www.figma.com/proto/fKUJ9cehdNAyN5ut7VZEGnaO/Untitled?node-id=2%3A4&scaling=min-zoom&redirected=1)
 
  
- ### Planificación 
+ ### Planificación 📝
 [enlace al tablero de Trello, indica planificación](https://trello.com/b/sXFbTOXz/cipher)
 
  ### Tests de Usabilidad 
