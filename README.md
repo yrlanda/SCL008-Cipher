@@ -5,7 +5,7 @@ Webcode es una aplicación basada en Cifrado César, este modelo de cifrado es u
 En la actualidad, todos los cifrados de sustitución simple se descifran con mucha facilidad y, aunque en la práctica no ofrecen mucha seguridad en la comunicación por sí mismos; Webcode formar parte de sistemas más complejos de codificación que más que un resultado te brinda seguridad.
 
 
-### Definición del producto y su relación con sus usuarios
+### Definición del producto y su relación con sus usuarios icono-arg-comunidad
 
 Como todos sabemos para acceder a nuestras cuentas de las redes sociales necesitamos ingresar contraseñas o algun código que sólo nosotros sepamos. Webcode esta diseñado para todas aquellas personas activas en las redes sociales las cuales desean una aplicación que les permita asegurar sus contraseñas de manera tal, que puedan almacenarlas en cualquier lugar sin poner en riesgo la seguridad de estás.
 
@@ -24,7 +24,7 @@ El usuario de esta aplicación al ingresar tendra una breve información del pro
 
 Al elegir su Nivel de dificultad tendra un recuadro donde podrá ingresar su información y seguido de esto dos botones visibles que le daran la opción de cifrar o descifra su mensaje según la elección o desición del mismo, obteniendo seguidamente su texto cifrado o descifrado. hemos creado un boton que le permitira limpiar ambas pantallas y asi iniciar una nueva operación si ese fuese su caso.
 
-### Desiciones de Diseño
+### Desiciones de Diseño 
 
 #### Prototipos de Baja Fidelidad
 
