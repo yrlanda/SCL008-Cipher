@@ -30,12 +30,12 @@ Al elegir su Nivel de dificultad tendra un recuadro donde podrá ingresar su inf
 
 aqui van las fotito
 
-![Prototipo de Baja Fidelidad](./img/diagrama_flujo.jpeg "Diagrama de Flujo")
-![Prototipo de Baja Fidelidad](./img/boceto1.jpeg "Boceto 1")
-![Prototipo de Baja Fidelidad](./img/boceto2.jpeg "Boceto 2")
-![Prototipo de Baja Fidelidad](./img/boceto3.jpeg "Boceto 3")
-![Prototipo de Baja Fidelidad](./img/sketch_boceto1.jpeg "Sketch Boceto 1")
-![Prototipo de Baja Fidelidad](./img/sketch_boceto2.jpeg "Sketch Boceto 2")
+![Prototipo de Baja Fidelidad](./src/img/diagrama_flujo.jpeg "Diagrama de Flujo")
+![Prototipo de Baja Fidelidad](./src/img/boceto1.jpeg "Boceto 1")
+![Prototipo de Baja Fidelidad](./src/img/boceto2.jpeg "Boceto 2")
+![Prototipo de Baja Fidelidad](./src/img/boceto3.jpeg "Boceto 3")
+![Prototipo de Baja Fidelidad](./src/img/sketch_boceto1.jpeg "Sketch Boceto 1")
+![Prototipo de Baja Fidelidad](./src/img/sketch_boceto2.jpeg "Sketch Boceto 2")
 
 
 
@@ -61,7 +61,7 @@ Los anuncios en color son leídos hasta un 42% más que los anuncios en blanco n
  El color de la pureza, cuanto más puro mayor perfección transmite. Es el color del nacimiento, de la resurrección, de la paz. No posee connotaciones negativas, siendo un color positivo, estimulante, luminoso y delicado que transmite la castidad, la inocencia y la verdad.
 
 
- ![Prototipo de Alta Fidelidad](./img/alta.png "Prototipo de alta fidelidad WebCode")
+ ![Prototipo de Alta Fidelidad](./src/img/alta.png "Prototipo de alta fidelidad WebCode")
 
 
  [enlace al prototipo de alta fidelidad Navegable](https://www.figma.com/proto/fKUJ9cehdNAyN5ut7VZEGnaO/Untitled?node-id=2%3A4&scaling=min-zoom&redirected=1)
