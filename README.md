@@ -1,11 +1,11 @@
-# Webcode
+# Webcode 🖥
 
 Webcode es una aplicación basada en Cifrado César, este modelo de cifrado es uno de los primeros métodos de cifrado conocidos. El emperador romano Julio César lo usaba para enviar órdenes secretas a sus generales en los campos de batalla. Con Webcode podŕas cifrar o descifar tus contraseñas en cuestion de segundos sin tener que correr el riesgo que estas estes vulnerables en su significado. 
 
 En la actualidad, todos los cifrados de sustitución simple se descifran con mucha facilidad y, aunque en la práctica no ofrecen mucha seguridad en la comunicación por sí mismos; Webcode formar parte de sistemas más complejos de codificación que más que un resultado te brinda seguridad.
 
 
-### Definición del producto y su relación con sus usuarios icono-arg-comunidad
+### Definición del producto y su relación con sus usuarios 
 
 Como todos sabemos para acceder a nuestras cuentas de las redes sociales necesitamos ingresar contraseñas o algun código que sólo nosotros sepamos. Webcode esta diseñado para todas aquellas personas activas en las redes sociales las cuales desean una aplicación que les permita asegurar sus contraseñas de manera tal, que puedan almacenarlas en cualquier lugar sin poner en riesgo la seguridad de estás.
 
