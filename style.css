@@ -28,7 +28,7 @@ header {
     font-size: 29px;
 }
 #banner {
-    background-image: url(../img/webcode.jpg);
+    background-image: url(./img/webcode.jpg);
     background-repeat: no-repeat;
     background-position-y: center;
     background-size: 100% 152%;
